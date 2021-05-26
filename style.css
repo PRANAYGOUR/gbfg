@@ -1,0 +1,35 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.item{
+  margin-left: 100px;
+
+}
+
+.menu{
+  visibility: hidden;
+}
+
+body{
+background-color: aqua;
+}
+
+h5{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: red;
+  display: flex;
+  font-size: 50px;
+  margin-bottom: 3px;
+  justify-content: space-evenly;
+  border-radius: 30px;
+  border: 30px;
+  background-color: chartreuse;
+}
+
+
+
